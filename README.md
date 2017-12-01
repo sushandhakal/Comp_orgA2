@@ -1,2 +1,3 @@
 # Comp_orgA2
-Computer Organization 1 (Assignment 2)
+Program to convert Hexadecimal strings into corresponding integer
+
